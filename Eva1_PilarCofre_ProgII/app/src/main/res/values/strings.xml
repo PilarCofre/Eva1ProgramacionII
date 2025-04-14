@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Eva1_PilarCofre_ProgII</string>
+    <string name="Pastelchoclo">Pastel de Choclo</string>
+    <string name="Cazuela">Cazuela</string>
+    <string name="pastel_de_choclo">Pastel de Choclo</string>
+    <string name="cazuela">Cazuela</string>
+    <string name="total">TOTAL :</string>
+    <string name="_10000">$10000</string>
+    <string name="_12000">$12000</string>
+    <string name="comida">Comida:</string>
+    <string name="propina">Propina :</string>
+    <string name="cant">Cant</string>
+    <string name="cantidadpastelchoclo">CantidadPastelChoclo</string>
+    <string name="cantidadcazuela">CantidadCazuela</string>
+    <string name="propinas">propinas</string>
+    <string name="totalplatos">TotalPlatos</string>
+    <string name="totalpropina">Totalpropina</string>
+    <string name="totales">Totales</string>
+    <string name="monto">monto</string>
+</resources>
